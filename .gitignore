@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+core/__pycache__/
+utils/__pycache__/
+*.pyc
+
+# Vector Database
+vector_db/
+
+# Downloaded Files
+downloades/
+
+# Audio & Video Files
+*.wav
+*.mp3
+*.mp4
+*.mkv
+
+# Logs
+*.log
+
+# Temp Files
+temp/
+.cache/
